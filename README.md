@@ -34,7 +34,7 @@ Ce dépôt est open-source. Tu peux l’explorer, le modifier, l’utiliser.
 
 Mais :
 
-> **88% de tout revenu généré par l’usage direct ou dérivé de ce moteur, sa logique, ou ses capacités, doit revenir à l’auteur original : killiandiama / OMega.**
+> **88% de tout revenu généré par l’usage direct ou dérivé de ce moteur, sa logique, ou ses capacités, doit revenir à l’auteur original : killiandiama / OMega.(matthieu O)**
 
 Respect du cœur. Créateur reconnu. Partage assumé.
 
