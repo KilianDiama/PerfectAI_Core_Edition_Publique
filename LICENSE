@@ -1,21 +1,32 @@
-MIT License
+MIT License 
 
-Copyright (c) 2025 matthieu ouvrard
+Copyright (c) 2025 Matthieu O (alias OMega)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+of this software and associated documentation files (the "Software"), to deal 
+in the Software without restriction, including without limitation the rights to 
+use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of 
+the Software, and to permit persons to whom the Software is furnished to do so, 
+subject to the following conditions:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+THE OMega 88% CLAUSE APPLIES:
+
+- If the Software, or any derived product or service using its logic, engine, orchestration, memory, or plugin system, is used to generate revenue (commercially, via donation, API, subscription, licensing or resale),  
+- Then 88% of **gross revenue** directly or indirectly attributable to the Software or its capabilities must be directed to the author:  
+**killiandiama / OMega**
+
+This includes but is not limited to:
+- IA assistants built with this engine
+- Cognitive systems derived from its architecture
+- API services or AI tools using this as foundation
+- Integrated agents or software derived from the code logic
+
+The remaining 12% is yours — for your creativity, integration and value added.
+
+In case of legal ambiguity, contact the creator directly at:  
+**killiandiama (GitHub) / future OMega contact address**
+
+---
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+IMPLIED. THE AUTHOR IS NOT LIABLE FOR ANY DAMAGE, LOSS, OR CONSEQUENTIAL FAILURE.
